@@ -10,3 +10,4 @@ The current iteration is not a P2P blockchain. It only supports a GET and POST r
 * Implement Proof-of-Work
 * Implement Merkle Tree for POW
 * Incorporate Basic Cryptocurrency 
+Personal Implementation is on personal-implementation branch
